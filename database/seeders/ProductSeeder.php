@@ -39,5 +39,29 @@ class ProductSeeder extends Seeder
             'description' => 'Cold Coffee',
             'image' => 'https://images.unsplash.com/photo-1568649929103-28ffbefaca1e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80'
         ]);
+        Product::create([
+            'name' => 'coffee',
+            'price' => 100,
+            'description' => 'Cold Coffee',
+            'image' => 'https://images.unsplash.com/photo-1568649929103-28ffbefaca1e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80'
+        ]);
+        Product::create([
+            'name' => 'coffee',
+            'price' => 100,
+            'description' => 'Cold Coffee',
+            'image' => 'https://images.unsplash.com/photo-1568649929103-28ffbefaca1e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80'
+        ]);
+        Product::create([
+            'name' => 'coffee',
+            'price' => 100,
+            'description' => 'Cold Coffee',
+            'image' => 'https://images.unsplash.com/photo-1568649929103-28ffbefaca1e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80'
+        ]);
+        Product::create([
+            'name' => 'coffee',
+            'price' => 100,
+            'description' => 'Cold Coffee',
+            'image' => 'https://images.unsplash.com/photo-1568649929103-28ffbefaca1e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80'
+        ]);
     }
 }
